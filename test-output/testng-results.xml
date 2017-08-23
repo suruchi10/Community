@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="129737" started-at="2017-08-23T19:26:20Z" finished-at="2017-08-23T19:28:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="129737" started-at="2017-08-23T19:26:20Z" finished-at="2017-08-23T19:28:29Z">
+      <class name="com.usgbc.dev.regression.Community_RegistrationTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.usgbc.dev.regression.Community_RegistrationTest@73035e27]" name="test1" duration-ms="35873" started-at="2017-08-24T00:56:20Z" finished-at="2017-08-24T00:56:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.usgbc.dev.regression.Community_RegistrationTest@73035e27]" name="test2" duration-ms="93864" started-at="2017-08-24T00:56:55Z" finished-at="2017-08-24T00:58:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- com.usgbc.dev.regression.Community_RegistrationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
